@@ -44,7 +44,7 @@
 - http://www.wampserver.com/ru/
 - http://www.denwer.ru/
 
-2. Установить git cvs [https://git-scm.com/]
+2. Установить git vcs [https://git-scm.com/]
 
 3. Завести аккаунт на [https://github.com]
 4. Сделать форк репозитория с этим заданием [https://github.com/ArmiT/test210616]
